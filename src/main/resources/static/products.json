@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "url": "https://chrys-online.com/products/macbook-pro-16",
+      "name": "MacBook Pro 16-inch",
+      "currentPrice": 2499.99
+    },
+    {
+      "id": 2,
+      "url": "https://chrys-online.com/products/iphone-15-pro",
+      "name": "iPhone 15 Pro",
+      "currentPrice": 999.99
+    },
+    {
+      "id": 3,
+      "url": "https://chrys-online.com/products/ps5-digital",
+      "name": "PlayStation 5 Digital Edition",
+      "currentPrice": 399.99
+    },
+    {
+      "id": 4,
+      "url": "https://chrys-online.com/products/samsung-qled-tv",
+      "name": "Samsung 65-inch QLED 4K Smart TV",
+      "currentPrice": 1299.99
+    },
+    {
+      "id": 5,
+      "url": "https://chrys-online.com/products/airpods-pro",
+      "name": "Apple AirPods Pro (2nd Generation)",
+      "currentPrice": 249.99
+    }
+  ]
+} 
