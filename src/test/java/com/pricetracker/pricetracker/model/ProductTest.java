@@ -30,7 +30,6 @@ class ProductTest {
     
     @Test
     void testProductNoArgsConstructor() {
-        // Arrange - nothing needed
         
         // Act
         Product product = new Product();
