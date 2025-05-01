@@ -45,7 +45,7 @@ class CheckFrequencyTest {
 
     @ParameterizedTest
     @ValueSource(strings = {
-        "00:00", "09:00", "15:00", "18:30", "23:59"
+        "00:00", "09:00", "15:00", "18:00", "23:59"
     })
     void testValidCustomTimes(String time) {
         // Arrange & Act & Assert
