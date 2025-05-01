@@ -82,7 +82,7 @@ The system supports the following check frequencies:
 | Frequency | Description | Check Time |
 |-----------|-------------|------------|
 | DAILY_MORNING_09_00 | Daily check at 9:00 AM | 09:00 |
-| DAILY_AFTERNOON_15_00 | Daily check at 3:30 PM | 15:30 |
+| DAILY_AFTERNOON_15_00 | Daily check at 3:30 PM | 15:00 |
 | DAILY_EVENING_18_00 | Daily check at 6:30 PM | 18:00 |
 | DAILY_MIDNIGHT_00_00 | Daily check at midnight | 00:00 |
 | CUSTOM | Custom time check | User specified |
